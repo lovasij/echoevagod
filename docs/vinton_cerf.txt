@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 1943 június 23-ám született 
 Amerikai matematikus és informatikus, akire általában az Internet egyik alapító atyjaként hivatkoznak.
 Kulcsszerepet töltött be az internet, valamint a TCP/IP protokollkészlet megalkotásában.
@@ -16,4 +17,24 @@ Díjai és kitüntetései:
 -2001-ben megkapta az Ohio Egyetem J. W. McClure Kommunikációs Iskolájának Strowger-díját. 2002-ben Bob Kahnnal, Larry Robertsszel és Tim Berners-Leevel egyetemben odaítélték neki a Premio Principe de Asturias de Investigacion Cientificát, a legmagasabb spanyol kitüntetést.
 -2005 elején bejelentették, hogy Cerf és Kahn a nyertesei az ACM 2004 évi Turing-díjának (ami a Nobel-díj számítástechnikai megfelelője), többek között az internet alapvető protokolljainak kidolgozásáért és az összekapcsolt hálózatok terén végzett úttörő tevékenységükért.
 -2005 novemberében George W. Bush kitüntette Cerföt és Kahnt a Presidential Medal of Freedom-mal, az internet létrehozásában való közreműködésükért.
+=======
+1943 június 23-ám született 
+Amerikai matematikus és informatikus, akire általában az Internet egyik alapító atyjaként hivatkoznak.
+Kulcsszerepet töltött be az internet, valamint a TCP/IP protokollkészlet megalkotásában.
+Az ISOC első elnökeként 1999-ig töltötte be a posztját.
+Születésétől fogva hallássérült.
+1965-ben BSc-fokozatot szerzett matematikából a Stanfordon.
+1967-ben visszatért az iskolapadba, beiratkozott a Los Angeles-i Kaliforniai Egyetem számítástechnikai tudományok szakára, ahol olyan tanárai voltak, mint például Leonard Kleinrock.
+1970-ben itt szerzett MSc, 1972-ben pedig PhD fokozatot.
+1976-ban felkérték, hogy dolgozzon az Egyesült Államok Védelmi Minisztériumának Fejlett Kutatási Központjánál egy kutatási-fejlesztési program vezetőjeként.
+Ezt követően 1982-től 1986-ig az MCI Digital Information Services alelnöke.
+1999-ben csatlakozott az ICANN tanácsához, ahol 2007-ig a tanács elnöki pozícióját tölti be.
+2006 februárjában Cerf tanúskodott az Egyesült Államok törvényhozásának távközlési bizottsága előtt a hálózatközömbösség mellett.
+Díjai és kitüntetései:
+-1996-ban kitüntették a Yuri Rubinsky-emlékdíjjal az ötödik World Wide Web konferencián Párizsban.
+-1996-ban elnyerte a SIGCOMM-díjat, az internet 25 éven keresztüli terjedésében való közreműködéseiért, a TCP/IP protokollok kifejlesztésétől kezdve.
+-2001-ben megkapta az Ohio Egyetem J. W. McClure Kommunikációs Iskolájának Strowger-díját. 2002-ben Bob Kahnnal, Larry Robertsszel és Tim Berners-Leevel egyetemben odaítélték neki a Premio Principe de Asturias de Investigacion Cientificát, a legmagasabb spanyol kitüntetést.
+-2005 elején bejelentették, hogy Cerf és Kahn a nyertesei az ACM 2004 évi Turing-díjának (ami a Nobel-díj számítástechnikai megfelelője), többek között az internet alapvető protokolljainak kidolgozásáért és az összekapcsolt hálózatok terén végzett úttörő tevékenységükért.
+-2005 novemberében George W. Bush kitüntette Cerföt és Kahnt a Presidential Medal of Freedom-mal, az internet létrehozásában való közreműködésükért.
+>>>>>>> de75736c512f77a0de121f7969be478122ec8baa
 -2007. április 2-án nagy sikerű előadást tartott Budapesten, a Mindentudás Egyetemén Az internet szabadsága címmel.
