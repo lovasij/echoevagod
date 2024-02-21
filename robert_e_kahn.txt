@@ -1,8 +1,0 @@
-Születt 1938 december 23.-án New Yorkban
-A TCP protokoll feltalálója, Vinton G. Cerffel az IP-protokoll elkészítője, azon technológiáké, amelyeket az internetes adatátvitelhez használunk.
-1972-ben kezdett el dolgozni az ARPA-nál.
-Ez év októberében, az International Computer Communication Conference-n bemutatta az ARPANET-et, a 40 számítógépből álló hálózatot, amit a nyilvánosság ekkor láthatott először.
-Miután a DARPA Information Processing Techniques Office igazgatója lett, elkezdte az Egyesült Államok milliárd dolláros stratégiai számítástechnikai programját, a legnagyobb ilyen jellegű kutatási és fejlesztési programot a szövetségi kormány történetében.
-Tizenhárom év után elhagyta a DARPA-t, hogy megalapítsa a Corporation for National Research Initiatives-t . 2006-ban a cég elnök-vezérigazgatója és az igazgatótanács elnöke volt.
-A CNRI egy nonprofit szervezet, ami irányítja és pénzügyileg támogatja a nemzeti információs infrastruktúra fejlesztését.
-2008-ban megkapta a Japán Díjat.
