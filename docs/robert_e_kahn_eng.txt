@@ -1,0 +1,8 @@
+Born on December 23, 1938 in New York
+The inventor of the TCP protocol, Vinton G. Cerffel, is the creator of the IP protocol, the technology we use to transmit data over the Internet.
+He started working at ARPA in 1972.
+In October of this year, at the International Computer Communication Conference, he presented ARPANET, a network of 40 computers that the public could see for the first time.
+After becoming director of DARPA's Information Processing Techniques Office, he began the US billion dollar strategic computing program, the largest research and development program of its kind in the history of the federal government.
+He left DARPA after thirteen years to found the Corporation for National Research Initiatives. In 2006, he was the company's president and CEO and chairman of the board of directors.
+CNRI is a non-profit organization that manages and financially supports the development of the national information infrastructure.
+In 2008, he received the Japan Prize.
