@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 1926 április 29-én született Grodnóban
 1949-ben diplomázott a Drexel Egyetemen villamosmérnöki diplomával.
 Ezután csatlakozott az Eckert-Mauchly Computer Company-hoz , ahol az Egyesült Államok első kereskedelmi számítógép-márkáján, az UNIVAC modelleken végzett műszaki munkát.
@@ -21,4 +22,29 @@ Díjak és kitüntetések:
 -National Inventors Hall of Fame (2007)
 -Nemzeti Technológiai és Innovációs Érem (2007)
 -Az UCLA Év Mérnöki Öregdiákja (2009)
+=======
+1926 április 29-én született Grodnóban
+1949-ben diplomázott a Drexel Egyetemen villamosmérnöki diplomával.
+Ezután csatlakozott az Eckert-Mauchly Computer Company-hoz , ahol az Egyesült Államok első kereskedelmi számítógép-márkáján, az UNIVAC modelleken végzett műszaki munkát.
+Mérnöki diplomáját 1959-ben szerezte meg az UCLA-n , Gerald Estrin tanácsadóval, miközben éjszakai órákat vett.
+Miután 1959-ben csatlakozott a RAND Corporation-hez , Baran egy „túlélhető” kommunikációs rendszer megtervezésére vállalkozott, amely képes fenntartani a kommunikációt a végpontok között a hidegháború alatti nukleáris fegyverek által okozott károk ellenére is.
+Leonard Kleinrock , az üzenetáramlás sorbanálláselméleti elemzésén dolgozó kortárs Ph.D.-javaslatában kidolgozta az üzenetváltási hálózatok működésének elméleti alapot.
+Barant és Davies-t a történészek és az Egyesült Államok Nemzeti Feltalálói Hírességek Csarnoka elismerik azért, mert önállóan találták ki a digitális csomagkapcsolás fogalmát, amelyet a modern számítógépes hálózatokban, köztük az interneten is használnak.
+Baran részt vett az NBS adattitkosítási szabványra vonatkozó javaslatának felülvizsgálatában 1976-ban, Martin Hellmannel és Whitfield Diffie- vel a Stanford Egyetemről.
+Ő alapította meg a Telebitet , miután az 1980-as évek közepén megalkotta diszkrét többtónusú modemtechnológiáját . Ez volt az egyik első olyan kereskedelmi termék, amely ortogonális frekvenciaosztásos multiplexelést használt , amelyet később széles körben alkalmaztak a DSL modemekben és a Wi-Fi vezeték nélküli modemekben.
+1985-ben Baran megalapította a Metricom-ot , az első vezeték nélküli internetes céget, amely bevezette a Ricochet , az első nyilvános vezeték nélküli mesh hálózati rendszert.
+Később megalapította a Plaster Networks céget, amely fejlett megoldást kínál az otthoni vagy kisirodai hálózati eszközök csatlakoztatására a meglévő vezetékeken keresztül.
+Díszdoktori címet kapott, amikor 1997-ben a Drexelben tartott ünnepi beszédet.
+Baran a kaliforniai Palo Altoban halt meg 84 éves korában, 2011. március 26-án tüdőrák okozta szövődmények következtében.
+Díjak és kitüntetések:
+-IEEE Alexander Graham Bell-érem (1990) 
+-Marconi-díj (1991)
+-Nippon Electronics Corporation C&C-díj (1996)
+-Bower-díj és tudományos eredményekért járó díj (2001) 
+-Az Amerikai Művészeti és Tudományos Akadémia munkatársa (2003)
+-A Számítógéptörténeti Múzeum munkatársa (2005) "az internet architektúrájához való alapvető hozzájárulásáért és egy életen át tartó vállalkozói tevékenységért".
+-National Inventors Hall of Fame (2007)
+-Nemzeti Technológiai és Innovációs Érem (2007)
+-Az UCLA Év Mérnöki Öregdiákja (2009)
+>>>>>>> de75736c512f77a0de121f7969be478122ec8baa
 -Internet Hall of Fame (2012)
