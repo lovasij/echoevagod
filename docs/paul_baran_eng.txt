@@ -1,0 +1,25 @@
+He was born on April 29, 1926 in Grodno
+He graduated from Drexel University in 1949 with a degree in electrical engineering.
+He then joined the Eckert-Mauchly Computer Company, where he did technical work on the first commercial computer brand in the United States, the UNIVAC models.
+He received his engineering degree from UCLA in 1959 with Gerald Estrin as advisor while taking night classes.
+After joining the RAND Corporation in 1959, Baran set out to design a "survivable" communications system capable of maintaining end-to-end communication despite the damage caused by nuclear weapons during the Cold War.
+Leonard Kleinrock, a contemporary working on the queuing theoretical analysis of message flow, developed the theoretical basis for the operation of message exchange networks in his Ph.D. proposal.
+Baran and Davies are recognized by historians and the US National Inventors Hall of Fame for independently inventing the concept of digital packet switching, which is used in modern computer networks, including the Internet.
+Baran participated in the revision of the NBS data encryption standard proposal in 1976 with Martin Hellman and Whitfield Diffie of Stanford University.
+He founded Telebit after creating its discrete multitone modem technology in the mid-1980s.
+It was one of the first commercial products to use orthogonal frequency division multiplexing, which was later widely used in DSL modems and Wi-Fi wireless modems.
+In 1985, Baran founded Metricom, the first wireless Internet company, which introduced Ricochet, the first public wireless mesh network system.
+He later founded Plaster Networks, which offers an advanced solution for connecting home or small office network devices over existing wiring.
+He received an honorary doctorate when he delivered the commencement address at Drexel in 1997.
+Baran died in Palo Alto, California at the age of 84 on March 26, 2011 of complications from lung cancer.
+Awards and honors:
+-IEEE Alexander Graham Bell Medal (1990)
+-Marconi Prize (1991)
+-Nippon Electronics Corporation C&C Award (1996)
+-Bower Award and Award for Scientific Achievement (2001)
+-Fellow of the American Academy of Arts and Sciences (2003)
+-Fellow of the Computer History Museum (2005) "for fundamental contributions to the architecture of the Internet and a lifetime of entrepreneurship."
+-National Inventors Hall of Fame (2007)
+-National Technology and Innovation Medal (2007)
+-UCLA Engineering Alumnus of the Year (2009)
+-Internet Hall of Fame (2012)
