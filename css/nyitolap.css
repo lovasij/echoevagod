@@ -1,13 +1,15 @@
 body {
-    background-color: aqua;
+    background-color: white;
 }
 
 .kep_jobbra {
     width: 5px;
+    
 }
 
 .fokep {
     width: 1000px;
+
 }
 
 .tkep {
