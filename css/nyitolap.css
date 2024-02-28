@@ -1,3 +1,7 @@
+body {
+    background-color: aqua;
+}
+
 .kep_jobbra {
     width: 5px;
 }
@@ -10,7 +14,9 @@
     width: 300px;
 }
 
+.szoveg {
 
+}
 
 
 
