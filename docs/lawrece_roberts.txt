@@ -1,0 +1,26 @@
+He was born on December 21, 1937, in Westport, the son of Elizabeth (Gilman) and Elliott John Roberts, both with doctorates in chemistry. After obtaining his doctoral degree, Roberts continued to work at the MIT Lincoln Laboratory. In February 1967, Roberts met Paul Baran but did not discuss networks. He asked Frank Westervelt to examine the initial design issues of the network. Roberts proposed a plan where all mainframe computers would directly connect to each other. In that year, at the Symposium on Operating Systems Principles, Roberts presented a plan based on the Clark message switching proposal.
+
+There he met a member of Donald Davies' team (Roger Scantlebury), who presented their research on packet switching and suggested its use in ARPANET. Roberts' plan for ARPANET was the first large-scale packet-switched network with distributed control, similar to Donald Davies' 1965 plan. Roberts commissioned Howard Frank to consult on network topology design.
+
+In 1970, he proposed to Donald Davies of the NPL that the two organizations connect their networks via satellite link. This original proposal proved infeasible, but in 1971, Peter Kirstein agreed to Roberts' proposal to instead connect to the University College London (UCL) research group.
+
+UCL provided connectivity to British academic networks, creating the first international resource-sharing network. In 1973, Roberts proposed that a satellite's 64-kilobit/second connection be used as a medium shared by multiple satellite ground stations within the footprint of the beam. Bob Kahn later implemented this, resulting in SATNET.
+
+In the early 1970s, Roberts approached AT&T about taking over ARPANET to offer public packet-switched service, but they declined. In 1973, Roberts left ARPA to join BBN in commercializing packet-switching technology efforts in Telenet, the first FCC-licensed public data network in the United States, serving as CEO from 1973 to 1980.
+
+Telenet transitioned to X.25 protocol, adopted by PTTs in North America and Europe for public data networks in the mid-to-late 1970s. Roberts advocated for this approach over the datagram approach used in TCP/IP employed by ARPA, which he labeled as "overkill" in 1978.
+
+In 1983, he joined DHL Corporation as president. From 1983 to 1993, he was CEO of NetExpress, a company dealing with asynchronous transfer mode (ATM) equipment. From 1993 to 1998, Roberts was president of ATM Systems.
+
+Since September 2012, Roberts has been CEO of Netmax in Redwood City, California.
+
+Awards and honors:
+- LM Ericsson Award (1982) in Sweden
+- Computer Design Hall of Fame Award (1982)
+- Association for Computing Machinery SIGCOMM Award (1998) for "pioneering contributions to computer communication networks and advanced technology development"
+- IEEE Internet Award (2000) for "early, outstanding contributions in the design, analysis, and presentation of packet-switched networks, fundamental to the architecture of the internet"
+- International Engineering Consortium Fellow Award (2001)
+- National Academy of Engineering Charles Stark Draper Prize (2001), "for the development of the internet"
+- Prince of Asturias Award 2002 in Spain "for the design and implementation of a system that has changed the world by providing previously unthinkable opportunities for social and scientific development."
+- NEC C&C Award (2005) in Japan "for contributions to the foundation of today's internet technology through the design and development of ARPANET and other early computer networks, which were part of the early internet"
+- In 2012, the Internet Society inducted Roberts into the Internet Hall of Fame.
