@@ -1,9 +1,11 @@
 body {
     background-color: white;
+    margin: 0;
 }
 
 .kep_jobbra {
-    width: 400px;
+    width: 110px;
+
     
 }
 
