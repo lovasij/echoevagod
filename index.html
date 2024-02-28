@@ -8,12 +8,12 @@
     <title>Az internet legendái</title>
 </head>
     <body>
-        <img class="kep_jobbra1" src="images/magyar.png" alt="Magyar zászló">
+        <img class="kep_jobbra1" id="magyar_zaszlo" src="images/magyar.png" alt="Magyar zászló">
         <br>
         <br>
         <br>
         <br>
-        <img class="kep_jobbra2" src="images/angol.png" alt="Angol zászló">
+        <img class="kep_jobbra2" id="angol_zaszlo" src="images/angol.png" alt="Angol zászló">
         <div class="fokep"><img class="fokep" src="images/Code-HD-Wallpaper-Free-download.jpg" alt="fejléc"></div>
         <div class="szoveg">
                 <div>
@@ -74,7 +74,21 @@
 
 
 
+        <script>
+            function nyelvvalt(nyelv) {
+                let szoveg = nyelv
+                if (szoveg === "magyar") {
+                    document.getElementById("").textContent = ""
+                }
+                if (szoveg === "angol") {
+                    document.getElementById("").textContent = ""
+                }
+                
 
+            }
+            document.getElementById("magyar_zaszlo").addEventListener("click", nyelvvalt(magyar))
+            document.getElementById("angol_zaszlo").addEventListener("click", nyelvvalt(angol))
+        </script>
     
     </body>
 </html>
