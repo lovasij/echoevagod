@@ -1,8 +1,6 @@
 body {
     background-color: darkgrey;
-    color: white;
-    margin: 0;
-    padding: 0;
+    color: rgb(0, 0, 0);
 }
 
 .hatter {
@@ -18,13 +16,12 @@ body {
 .kep_jobbra1 {
     width: 110px;
     float: right;
+    display: block;
+    
     
 }
 
-.kep_jobbra2 {
-    width: 110px;
-    float: right;
-}
+
 
 .fokep {
     width: 1260px;
@@ -35,12 +32,21 @@ body {
 }
 
 .tkep {
-    width: 160px;
-    border-spacing: 5px;
-    margin: 0 auto;
+    width: 120px;
+    float: left;
+    border-spacing: 30px;
+} 
+
+.tkep2 {
+    width: 120px;
+    float: left;
+    display: block;
+    border-spacing: 30px;
+} 
+
+h1 {
+    text-align: center;
 }
-
-
 
 
 
