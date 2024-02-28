@@ -5,26 +5,36 @@ body {
     padding: 0;
 }
 
+.hatter {
+    background-color: white;
+    height: 1000px;
+    width: 86%;
+    margin: 0 auto;
+    border: solid #5c6b7a 40px;
+
+}
+
 
 .kep_jobbra1 {
     width: 110px;
     float: right;
-    display: block;
+    
 }
 
 .kep_jobbra2 {
     width: 110px;
     float: right;
-    display: block;
 }
 
 .fokep {
     width: 1000px;
+    
 
 }
 
 .tkep {
-    width: 300px;
+    width: 160px;
+
 }
 
 .szoveg {
