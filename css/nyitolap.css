@@ -5,30 +5,17 @@ body {
     padding: 0;
 }
 
-.parent {
-    position: relative;
-    top: 0;
-    left: 0;
-}
 
 .kep_jobbra1 {
-    position: relative;
     width: 110px;
-    top: 0;
-    left: 0;
-    border: 1px solid #000000;
-    border-spacing: 10px;
-    
+    float: right;
+    display: block;
 }
 
 .kep_jobbra2 {
-    position: absolute;
     width: 110px;
-    top: 30px;
-    left: 30px;
     float: right;
-    border: 1px solid #000000;
-    border-spacing: 10px;
+    display: block;
 }
 
 .fokep {
