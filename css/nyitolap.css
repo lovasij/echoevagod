@@ -27,19 +27,20 @@ body {
 }
 
 .fokep {
-    width: 1000px;
-    
+    width: 1260px;
+    height: 400px;
+    display: block;
+    margin: 0 auto;
 
 }
 
 .tkep {
     width: 160px;
-
+    border-spacing: 5px;
+    margin: 0 auto;
 }
 
-.szoveg {
 
-}
 
 
 
