@@ -5,16 +5,21 @@ body {
 
 .hatter {
     background-color: white;
-    height: 1000px;
+    height: 100%;
     width: 86%;
     margin: 0 auto;
     border: solid #5c6b7a 40px;
 
 }
 
+table{
+    text-align:center;
+    margin: 0 auto;
+    height: 500px
+}
 
 .kep_jobbra1 {
-    width: 110px;
+    width: 70px;
     float: right;
     display: block;
     
@@ -23,7 +28,7 @@ body {
 
 
 .fokep {
-    width: 1260px;
+    width: 100%;
     height: 400px;
     display: block;
     margin: 0 auto;
@@ -32,19 +37,20 @@ body {
 
 .tkep {
     width: 120px;
-    text-align: center;
     border-spacing: 30px;
+    padding: 25px;
 } 
 
-.tkep2 {
-    width: 120px;
-    float: left;
-    display: block;
-    border-spacing: 30px;
-} 
+
 
 h1 {
     text-align: center;
+}
+
+td {
+    padding: 10px;
+    background-color: grey;
+    width: 1000px;
 }
 
 
